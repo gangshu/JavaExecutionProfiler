@@ -1,0 +1,12 @@
+#9_3_92	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#9_3_92	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#9_3_99	[IMUL]	<25>	{5,5}
+#9_3_99	[CallSite-Enter~edu.Test.sqrt (I)F]	
+#9_4_X	[Function-Enter~edu.Test.sqrt (I)F]	{25}
+#9_4_139	[CallSite-Enter~java.lang.Math.sqrt (D)D]	
+#9_4_139	[CallSite-Exit~java.lang.Math.sqrt (D)D]	
+#9_4_X	[Function-Exit~edu.Test.sqrt (I)F]	<5.0>	
+#9_3_99	[CallSite-Exit~edu.Test.sqrt (I)F]	
+#9_3_99	[FADD]	<6.0>	{1.0,5.0}
+#9_3_99	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#9_3_99	[CallSite-Exit~java.io.PrintStream.println (F)V]	

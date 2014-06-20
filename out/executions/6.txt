@@ -1,0 +1,18 @@
+#6_3_67	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#6_3_67	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#6_3_69	[IMUL]	<10>	{2,5}
+#6_3_69	[FADD]	<12.0>	{2.0,10.0}
+#6_3_69	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#6_3_69	[CallSite-Exit~java.io.PrintStream.println (F)V]	
+#6_3_70	[IMUL]	<10>	{2,5}
+#6_3_70	[FSUB]	<-8.0>	{2.0,10.0}
+#6_3_70	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#6_3_70	[CallSite-Exit~java.io.PrintStream.println (F)V]	
+#6_3_71	[IMUL]	<10>	{2,5}
+#6_3_71	[FMUL]	<20.0>	{2.0,10.0}
+#6_3_71	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#6_3_71	[CallSite-Exit~java.io.PrintStream.println (F)V]	
+#6_3_72	[IMUL]	<10>	{2,5}
+#6_3_72	[FDIV]	<0.2>	{2.0,10.0}
+#6_3_72	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#6_3_72	[CallSite-Exit~java.io.PrintStream.println (F)V]	

@@ -1,0 +1,23 @@
+#23_3_126	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#23_3_126	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#23_3_127	[CallSite-Enter~java.util.Random.nextInt (I)I]	
+#23_3_127	[CallSite-Exit~java.util.Random.nextInt (I)I]	
+#23_3_128	[CallSite-Enter~java.util.Random.nextInt (I)I]	
+#23_3_128	[CallSite-Exit~java.util.Random.nextInt (I)I]	
+#23_3_129	[CallSite-Enter~java.util.Random.nextInt (I)I]	
+#23_3_129	[CallSite-Exit~java.util.Random.nextInt (I)I]	
+#23_3_130	[CallSite-Enter~edu.Test.mid (III)I]	
+#23_6_X	[Function-Enter~edu.Test.mid (III)I]	{4,2,3}
+#23_6_165	[IMUL]	<8>	{4,2}
+#23_6_165	[CallSite-Enter~edu.Test.mid2 (IIII)I]	
+#23_7_X	[Function-Enter~edu.Test.mid2 (IIII)I]	{4,2,3,8}
+#23_7_X	[Function-Exit~edu.Test.mid2 (IIII)I]	<3>	
+#23_6_165	[CallSite-Exit~edu.Test.mid2 (IIII)I]	
+#23_6_165	[IADD]	<8>	{3,5}
+#23_6_165	[IADD]	<14>	{8,6}
+#23_6_167	[IINC]	<15>	{14,1}
+#23_6_171	[LADD]	<16>	{15,1}
+#23_6_X	[Function-Exit~edu.Test.mid (III)I]	<16>	
+#23_3_130	[CallSite-Exit~edu.Test.mid (III)I]	
+#23_3_124	[IINC]	<4>	{3,1}
+#23_3_125	[IADD]	<24>	{20,4}

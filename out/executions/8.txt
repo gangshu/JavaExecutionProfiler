@@ -1,0 +1,42 @@
+#8_3_83	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#8_3_83	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#8_3_86	[DMUL]	<10.0>	{2.0,5.0}
+#8_3_86	[CallSite-Enter~edu.Test.sqrt (D)D]	
+#8_5_X	[Function-Enter~edu.Test.sqrt (D)D]	{10.0}
+#8_5_143	[CallSite-Enter~java.lang.Math.sqrt (D)D]	
+#8_5_143	[CallSite-Exit~java.lang.Math.sqrt (D)D]	
+#8_5_X	[Function-Exit~edu.Test.sqrt (D)D]	<3.1622776601683795>	
+#8_3_86	[CallSite-Exit~edu.Test.sqrt (D)D]	
+#8_3_86	[DADD]	<6.16227766016838>	{3.0,3.1622776601683795}
+#8_3_86	[CallSite-Enter~java.io.PrintStream.println (D)V]	
+#8_3_86	[CallSite-Exit~java.io.PrintStream.println (D)V]	
+#8_3_87	[DMUL]	<10.0>	{2.0,5.0}
+#8_3_87	[CallSite-Enter~edu.Test.sqrt (D)D]	
+#8_5_X	[Function-Enter~edu.Test.sqrt (D)D]	{10.0}
+#8_5_143	[CallSite-Enter~java.lang.Math.sqrt (D)D]	
+#8_5_143	[CallSite-Exit~java.lang.Math.sqrt (D)D]	
+#8_5_X	[Function-Exit~edu.Test.sqrt (D)D]	<3.1622776601683795>	
+#8_3_87	[CallSite-Exit~edu.Test.sqrt (D)D]	
+#8_3_87	[DSUB]	<-0.16227766016837952>	{3.0,3.1622776601683795}
+#8_3_87	[CallSite-Enter~java.io.PrintStream.println (D)V]	
+#8_3_87	[CallSite-Exit~java.io.PrintStream.println (D)V]	
+#8_3_88	[DMUL]	<10.0>	{2.0,5.0}
+#8_3_88	[CallSite-Enter~edu.Test.sqrt (D)D]	
+#8_5_X	[Function-Enter~edu.Test.sqrt (D)D]	{10.0}
+#8_5_143	[CallSite-Enter~java.lang.Math.sqrt (D)D]	
+#8_5_143	[CallSite-Exit~java.lang.Math.sqrt (D)D]	
+#8_5_X	[Function-Exit~edu.Test.sqrt (D)D]	<3.1622776601683795>	
+#8_3_88	[CallSite-Exit~edu.Test.sqrt (D)D]	
+#8_3_88	[DMUL]	<9.486832980505138>	{3.0,3.1622776601683795}
+#8_3_88	[CallSite-Enter~java.io.PrintStream.println (D)V]	
+#8_3_88	[CallSite-Exit~java.io.PrintStream.println (D)V]	
+#8_3_89	[DMUL]	<10.0>	{2.0,5.0}
+#8_3_89	[CallSite-Enter~edu.Test.sqrt (D)D]	
+#8_5_X	[Function-Enter~edu.Test.sqrt (D)D]	{10.0}
+#8_5_143	[CallSite-Enter~java.lang.Math.sqrt (D)D]	
+#8_5_143	[CallSite-Exit~java.lang.Math.sqrt (D)D]	
+#8_5_X	[Function-Exit~edu.Test.sqrt (D)D]	<3.1622776601683795>	
+#8_3_89	[CallSite-Exit~edu.Test.sqrt (D)D]	
+#8_3_89	[DDIV]	<0.9486832980505138>	{3.0,3.1622776601683795}
+#8_3_89	[CallSite-Enter~java.io.PrintStream.println (D)V]	
+#8_3_89	[CallSite-Exit~java.io.PrintStream.println (D)V]	

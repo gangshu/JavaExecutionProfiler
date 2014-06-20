@@ -1,0 +1,42 @@
+#7_3_75	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#7_3_75	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#7_3_77	[IMUL]	<10>	{2,5}
+#7_3_77	[CallSite-Enter~edu.Test.sqrt (I)F]	
+#7_4_X	[Function-Enter~edu.Test.sqrt (I)F]	{10}
+#7_4_139	[CallSite-Enter~java.lang.Math.sqrt (D)D]	
+#7_4_139	[CallSite-Exit~java.lang.Math.sqrt (D)D]	
+#7_4_X	[Function-Exit~edu.Test.sqrt (I)F]	<3.1622777>	
+#7_3_77	[CallSite-Exit~edu.Test.sqrt (I)F]	
+#7_3_77	[FADD]	<6.1622777>	{3.0,3.1622777}
+#7_3_77	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#7_3_77	[CallSite-Exit~java.io.PrintStream.println (F)V]	
+#7_3_78	[IMUL]	<10>	{2,5}
+#7_3_78	[CallSite-Enter~edu.Test.sqrt (I)F]	
+#7_4_X	[Function-Enter~edu.Test.sqrt (I)F]	{10}
+#7_4_139	[CallSite-Enter~java.lang.Math.sqrt (D)D]	
+#7_4_139	[CallSite-Exit~java.lang.Math.sqrt (D)D]	
+#7_4_X	[Function-Exit~edu.Test.sqrt (I)F]	<3.1622777>	
+#7_3_78	[CallSite-Exit~edu.Test.sqrt (I)F]	
+#7_3_78	[FSUB]	<-0.1622777>	{3.0,3.1622777}
+#7_3_78	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#7_3_78	[CallSite-Exit~java.io.PrintStream.println (F)V]	
+#7_3_79	[IMUL]	<10>	{2,5}
+#7_3_79	[CallSite-Enter~edu.Test.sqrt (I)F]	
+#7_4_X	[Function-Enter~edu.Test.sqrt (I)F]	{10}
+#7_4_139	[CallSite-Enter~java.lang.Math.sqrt (D)D]	
+#7_4_139	[CallSite-Exit~java.lang.Math.sqrt (D)D]	
+#7_4_X	[Function-Exit~edu.Test.sqrt (I)F]	<3.1622777>	
+#7_3_79	[CallSite-Exit~edu.Test.sqrt (I)F]	
+#7_3_79	[FMUL]	<9.486834>	{3.0,3.1622777}
+#7_3_79	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#7_3_79	[CallSite-Exit~java.io.PrintStream.println (F)V]	
+#7_3_80	[IMUL]	<10>	{2,5}
+#7_3_80	[CallSite-Enter~edu.Test.sqrt (I)F]	
+#7_4_X	[Function-Enter~edu.Test.sqrt (I)F]	{10}
+#7_4_139	[CallSite-Enter~java.lang.Math.sqrt (D)D]	
+#7_4_139	[CallSite-Exit~java.lang.Math.sqrt (D)D]	
+#7_4_X	[Function-Exit~edu.Test.sqrt (I)F]	<3.1622777>	
+#7_3_80	[CallSite-Exit~edu.Test.sqrt (I)F]	
+#7_3_80	[FDIV]	<0.94868326>	{3.0,3.1622777}
+#7_3_80	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#7_3_80	[CallSite-Exit~java.io.PrintStream.println (F)V]	

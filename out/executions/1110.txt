@@ -1,0 +1,14 @@
+#1110_3_16	[CallSite-Enter~edu.Test.mid (III)I]	
+#1110_6_X	[Function-Enter~edu.Test.mid (III)I]	{100,200,300}
+#1110_6_152	[IADD]	<201>	{200,1}
+#1110_6_165	[IMUL]	<20000>	{100,200}
+#1110_6_165	[CallSite-Enter~edu.Test.mid2 (IIII)I]	
+#1110_7_X	[Function-Enter~edu.Test.mid2 (IIII)I]	{100,200,300,20000}
+#1110_7_X	[Function-Exit~edu.Test.mid2 (IIII)I]	<200>	
+#1110_6_165	[CallSite-Exit~edu.Test.mid2 (IIII)I]	
+#1110_6_165	[IADD]	<205>	{200,5}
+#1110_6_165	[IADD]	<211>	{205,6}
+#1110_6_167	[IINC]	<212>	{211,1}
+#1110_6_171	[LADD]	<213>	{212,1}
+#1110_6_X	[Function-Exit~edu.Test.mid (III)I]	<213>	
+#1110_3_16	[CallSite-Exit~edu.Test.mid (III)I]	

@@ -1,0 +1,18 @@
+
+
+===============================
+Gang Shu (gang.shu@case.edu)
+===============================
+
+D:
+
+cd C:\Documents and Settings\Gang\git\JavaExecutionProfiler
+
+java -cp bin2;lib/* edu.Test
+
+
+
+
+
+
+

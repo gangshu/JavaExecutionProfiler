@@ -1,0 +1,14 @@
+#3_3_43	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#3_3_43	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#3_3_45	[LADD]	<12>	{2,10}
+#3_3_45	[CallSite-Enter~java.io.PrintStream.println (J)V]	
+#3_3_45	[CallSite-Exit~java.io.PrintStream.println (J)V]	
+#3_3_46	[LSUB]	<-8>	{2,10}
+#3_3_46	[CallSite-Enter~java.io.PrintStream.println (J)V]	
+#3_3_46	[CallSite-Exit~java.io.PrintStream.println (J)V]	
+#3_3_47	[LMUL]	<20>	{2,10}
+#3_3_47	[CallSite-Enter~java.io.PrintStream.println (J)V]	
+#3_3_47	[CallSite-Exit~java.io.PrintStream.println (J)V]	
+#3_3_48	[LDIV]	<0>	{2,10}
+#3_3_48	[CallSite-Enter~java.io.PrintStream.println (J)V]	
+#3_3_48	[CallSite-Exit~java.io.PrintStream.println (J)V]	

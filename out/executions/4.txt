@@ -1,0 +1,14 @@
+#4_3_51	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#4_3_51	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#4_3_53	[DADD]	<12.0>	{2.0,10.0}
+#4_3_53	[CallSite-Enter~java.io.PrintStream.println (D)V]	
+#4_3_53	[CallSite-Exit~java.io.PrintStream.println (D)V]	
+#4_3_54	[DSUB]	<-8.0>	{2.0,10.0}
+#4_3_54	[CallSite-Enter~java.io.PrintStream.println (D)V]	
+#4_3_54	[CallSite-Exit~java.io.PrintStream.println (D)V]	
+#4_3_55	[DMUL]	<20.0>	{2.0,10.0}
+#4_3_55	[CallSite-Enter~java.io.PrintStream.println (D)V]	
+#4_3_55	[CallSite-Exit~java.io.PrintStream.println (D)V]	
+#4_3_56	[DDIV]	<0.2>	{2.0,10.0}
+#4_3_56	[CallSite-Enter~java.io.PrintStream.println (D)V]	
+#4_3_56	[CallSite-Exit~java.io.PrintStream.println (D)V]	

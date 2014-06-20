@@ -1,0 +1,25 @@
+#11_3_113	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#11_3_113	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#11_3_114	[CallSite-Enter~edu.Test.mid (III)I]	
+#11_6_X	[Function-Enter~edu.Test.mid (III)I]	{1,3,2}
+#11_6_165	[IMUL]	<3>	{1,3}
+#11_6_165	[CallSite-Enter~edu.Test.mid2 (IIII)I]	
+#11_7_X	[Function-Enter~edu.Test.mid2 (IIII)I]	{1,3,2,3}
+#11_7_X	[Function-Exit~edu.Test.mid2 (IIII)I]	<2>	
+#11_6_165	[CallSite-Exit~edu.Test.mid2 (IIII)I]	
+#11_6_165	[IADD]	<7>	{2,5}
+#11_6_165	[IADD]	<13>	{7,6}
+#11_6_167	[IINC]	<14>	{13,1}
+#11_6_171	[LADD]	<15>	{14,1}
+#11_6_X	[Function-Exit~edu.Test.mid (III)I]	<15>	
+#11_3_114	[CallSite-Exit~edu.Test.mid (III)I]	
+#11_3_115	[CallSite-Enter~edu.Test.<init> ()V]	
+#11_3_7	[CallSite-Enter~java.lang.Object.<init> ()V]	
+#11_2_X	[Function-Enter~edu.Test.<init> ()V]	
+#11_2_7	[CallSite-Exit~java.lang.Object.<init> ()V]	
+#11_2_X	[Function-Exit~edu.Test.<init> ()V]	<Void>	
+#11_3_115	[CallSite-Exit~edu.Test.<init> ()V]	
+#11_3_115	[CallSite-Enter~edu.Test.mid2 (IIII)I]	
+#11_7_X	[Function-Enter~edu.Test.mid2 (IIII)I]	{4,6,5,8}
+#11_7_X	[Function-Exit~edu.Test.mid2 (IIII)I]	<5>	
+#11_3_115	[CallSite-Exit~edu.Test.mid2 (IIII)I]	

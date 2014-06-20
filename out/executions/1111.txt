@@ -1,0 +1,14 @@
+#1111_3_19	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#1111_3_19	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#1111_3_21	[IADD]	<12>	{2,10}
+#1111_3_21	[CallSite-Enter~java.io.PrintStream.println (I)V]	
+#1111_3_21	[CallSite-Exit~java.io.PrintStream.println (I)V]	
+#1111_3_22	[ISUB]	<-8>	{2,10}
+#1111_3_22	[CallSite-Enter~java.io.PrintStream.println (I)V]	
+#1111_3_22	[CallSite-Exit~java.io.PrintStream.println (I)V]	
+#1111_3_23	[IMUL]	<20>	{2,10}
+#1111_3_23	[CallSite-Enter~java.io.PrintStream.println (I)V]	
+#1111_3_23	[CallSite-Exit~java.io.PrintStream.println (I)V]	
+#1111_3_24	[IDIV]	<0>	{2,10}
+#1111_3_24	[CallSite-Enter~java.io.PrintStream.println (I)V]	
+#1111_3_24	[CallSite-Exit~java.io.PrintStream.println (I)V]	

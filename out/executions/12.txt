@@ -1,0 +1,15 @@
+#12_3_118	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#12_3_118	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#12_3_119	[CallSite-Enter~edu.Test.<init> ()V]	
+#12_3_7	[CallSite-Enter~java.lang.Object.<init> ()V]	
+#12_2_X	[Function-Enter~edu.Test.<init> ()V]	
+#12_2_7	[CallSite-Exit~java.lang.Object.<init> ()V]	
+#12_2_X	[Function-Exit~edu.Test.<init> ()V]	<Void>	
+#12_3_119	[CallSite-Exit~edu.Test.<init> ()V]	
+#12_3_119	[CallSite-Enter~edu.Test.mid3 (ILjava/lang/String;ILjava/lang/String;I)I]	
+#12_8_X	[Function-Enter~edu.Test.mid3 (ILjava/lang/String;ILjava/lang/String;I)I]	{4,6,5}
+#12_8_X	[Function-Exit~edu.Test.mid3 (ILjava/lang/String;ILjava/lang/String;I)I]	<5>	
+#12_3_119	[CallSite-Exit~edu.Test.mid3 (ILjava/lang/String;ILjava/lang/String;I)I]	
+#12_3_123	[CallSite-Enter~java.util.Random.<init> ()V]	
+#12_3_123	[CallSite-Exit~java.util.Random.<init> ()V]	
+#12_3_125	[IADD]	<20>	{20,0}

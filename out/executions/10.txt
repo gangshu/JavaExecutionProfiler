@@ -1,0 +1,14 @@
+#10_3_102	[CallSite-Enter~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#10_3_102	[CallSite-Exit~java.io.PrintStream.println (Ljava/lang/String;)V]	
+#10_3_107	[INEG]	<-3>	{3}
+#10_3_107	[CallSite-Enter~java.io.PrintStream.println (I)V]	
+#10_3_107	[CallSite-Exit~java.io.PrintStream.println (I)V]	
+#10_3_108	[FNEG]	<-3.0>	{3.0}
+#10_3_108	[CallSite-Enter~java.io.PrintStream.println (F)V]	
+#10_3_108	[CallSite-Exit~java.io.PrintStream.println (F)V]	
+#10_3_109	[LNEG]	<-3>	{3}
+#10_3_109	[CallSite-Enter~java.io.PrintStream.println (J)V]	
+#10_3_109	[CallSite-Exit~java.io.PrintStream.println (J)V]	
+#10_3_110	[DNEG]	<-3.0>	{3.0}
+#10_3_110	[CallSite-Enter~java.io.PrintStream.println (D)V]	
+#10_3_110	[CallSite-Exit~java.io.PrintStream.println (D)V]	

@@ -1,0 +1,9 @@
+0	edu.Test.<init> ()V
+1	edu.Test.main ([Ljava/lang/String;)V
+2	edu.Test.<init> ()V
+3	edu.Test.main ([Ljava/lang/String;)V
+4	edu.Test.sqrt (I)F
+5	edu.Test.sqrt (D)D
+6	edu.Test.mid (III)I
+7	edu.Test.mid2 (IIII)I
+8	edu.Test.mid3 (ILjava/lang/String;ILjava/lang/String;I)I
